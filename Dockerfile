@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/networking/istio@sha256:55fe9eeacfc20d97d3cd4f80bfc8a9b95cff7b5c50121bda87f754da8f05e57b
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/networking/istio@sha256:057c999bccfe32e9889616b571dc8d389c742ff66f0b5516bad651f05459b7bc
